@@ -1,6 +1,12 @@
 # Covid 19 Tracker
 A public COVID-19 tracker. Fully customizable for use within the UK. 
 
+# Install Instructions
+To install and run the COVID 19 tracker:
+- First, download the full repo from git.
+- Secondly, get an API key from newsapi and add it in the config file.
+- Lastly, run app.py and head to http://127.0.0.1:5000/index
+
 # Required Modules
 The required Modules for the program are as follows; 
 - json
